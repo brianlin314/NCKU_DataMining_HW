@@ -1,0 +1,1 @@
+2022-10-18 21:21:11,539 [main.py:44] INFO: Arguments: Namespace(min_sup=0.02, min_conf=0.05, dataset='Market-Basket.txt')

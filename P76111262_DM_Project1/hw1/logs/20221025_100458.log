@@ -1,0 +1,1 @@
+2022-10-25 10:04:58,405 [fp_main.py:15] INFO: Arguments: Namespace(min_sup=0.2, min_conf=0.2, dataset='fp_data.txt')

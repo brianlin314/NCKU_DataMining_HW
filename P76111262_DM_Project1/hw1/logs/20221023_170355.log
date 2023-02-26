@@ -1,0 +1,1 @@
+2022-10-23 17:03:55,727 [kaggle_main.py:12] INFO: Arguments: Namespace(min_sup=0.004, min_conf=0.5, dataset='BreadBasket_DMS.csv')

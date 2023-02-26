@@ -1,0 +1,8 @@
+antecedent,consequent,support,confidence,lift
+{Pastry},{Coffee},0.046,0.526,0.931
+{Sandwich},{Coffee},0.037,0.47,0.831
+{Tea},{Coffee},0.049,0.329,0.582
+{Bread},{Coffee},0.088,0.256,0.454
+{Cake},{Coffee},0.053,0.505,0.895
+{Coffee},{Bread},0.088,0.156,0.454
+{Medialuna},{Coffee},0.034,0.541,0.957
